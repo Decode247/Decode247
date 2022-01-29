@@ -2,13 +2,13 @@
 
 I'm study Bsc in physics at wsu 
 
-Programming language
-Java
-C++😏😏
-Python🔥🔥
-Dart😍😍🔥🔥
-JavaScript
-Html and Css
+**Programming language**
 
-### I'm  interested on app development I love😍😍 math
-### And programming🤩😍😍
+* Java
+* C++😏😏
+* Python🔥🔥
+* Dart😍😍🔥🔥
+* JavaScript
+* Html and Css
+
+- ### I'm  interested on app development I love😍😍 math and programming🤩😍😍 -
