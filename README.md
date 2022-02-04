@@ -1,6 +1,6 @@
 ## I'm Bayanda Mpakathi
 
-I'm study Bsc in physics at wsu 
+I'm studying Bsc in physics at wsu and app developer
 
 **Programming language**
 
