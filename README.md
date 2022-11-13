@@ -4,6 +4,7 @@ I'm studying Bsc in physics at wsu and app developer
 
 **Programming language**
 
+* Futter❤️👌👌
 * Java
 * C++😏😏
 * Python🔥🔥
